@@ -1,0 +1,10 @@
+{
+  "name": "Pepper 的健康日记",
+  "short_name": "Pepper 健康日记",
+  "description": "Pepper 的食筛、瘙痒、护理与日常健康记录。",
+  "start_url": "./pepper-health-manager.html",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#6f967d",
+  "icons": [{"src": "pepper-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
